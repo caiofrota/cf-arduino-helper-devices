@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For CF Helper 
+# Devices
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CFDHTHelper	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setReadingDelay 	KEYWORD2
+isRead 	KEYWORD2
+getTemperatureC 	KEYWORD2
+getTemperatureF 	KEYWORD2
+getHeatIndexC 	KEYWORD2
+getHeatIndexF 	KEYWORD2
+getHumidity 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
